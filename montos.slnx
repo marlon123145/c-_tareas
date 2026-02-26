@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="montos/montos.vcxproj" />
+  <Project Path="montos/montos.vcxproj" Id="ae15532b-b313-4c59-a332-861c3f051904" />
 </Solution>
