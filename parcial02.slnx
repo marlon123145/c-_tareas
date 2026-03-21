@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="parcial02/parcial02.vcxproj" Id="3e41bacb-ba8e-4a4a-9e82-fa8a521ec71d" />
+</Solution>
